@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/teedari/Projects/Django/Django sandbox/venv"
+VIRTUAL_ENV="/home/teecode/github/me/dummy_test_with_django/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
